@@ -26,7 +26,6 @@ I worked in 4G/5G Packet Core Microservices. I have passion for Infrastructure a
 ### Badges
 
 <b>Top Repositories</b>
-
 <div width="100%" align="center"><a href="https://github.com/anvayabn/Z-stack" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=anvayabn&repo=Z-stack&title_color=ffffff&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/anvayabn/CiliumProject" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=anvayabn&repo=CiliumProject&title_color=ffffff&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 <br /><br /><br /><br /><br />
 <div width="100%" align="center"><a href="https://github.com/anvayabn/rust_asyn_lb" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=anvayabn&repo=rust_asyn_lb&title_color=ffffff&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/anvayabn/WrkParser" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=anvayabn&repo=WrkParser&title_color=ffffff&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en" /></a></div>
