@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Distributed Systems and Network Engineer
 ----------------------------------------
 
-I worked in 4G/5G Packet Core Microservices. I have passion for Infrastructure and Networks. I have implemented multiple networking programs and quick with Linux.
+I worked in 4G/5G Packet Core Microservices. I have passion for Infrastructure and Networks. I have implemented multiple networking programs and hands-on with building applications & quick with navigating through the Linux OS.
 
 * 🌍  I'm based in California
 * ✉️  You can contact me at [an001@ucr.edu](mailto:an001@ucr.edu)
