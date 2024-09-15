@@ -6,7 +6,7 @@ Systems Engineer
 
 I have passion for Infrastructure and Networks. I have implemented multiple networking programs and hands-on with building applications & quick with navigating through the Linux OS.
 
-* ✉️  You can contact me at [an001@ucr.edu](mailto:anvayabn@protonmail.com)
+* ✉️  You can contact me at [mailme](mailto:anvayabn@protonmail.com)
 * 🚀  I'm currently working on [Byte Bound](http://rustsnippet.substack.com/)
 * 🧠  I'm learning Rust, Linux Kernel Programming, ebpf
 
