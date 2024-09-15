@@ -1,15 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anvaya
 ==============================================================================================================================
 
-Distributed Systems and Network Engineer
+Systems Engineer
 ----------------------------------------
 
-I worked in 4G/5G Packet Core Microservices. I have passion for Infrastructure and Networks. I have implemented multiple networking programs and hands-on with building applications & quick with navigating through the Linux OS.
+I have passion for Infrastructure and Networks. I have implemented multiple networking programs and hands-on with building applications & quick with navigating through the Linux OS.
 
-* 🌍  I'm based in California
-* ✉️  You can contact me at [an001@ucr.edu](mailto:an001@ucr.edu)
+* ✉️  You can contact me at [an001@ucr.edu](mailto:anvayabn@protonmail.com)
 * 🚀  I'm currently working on [Byte Bound](http://rustsnippet.substack.com/)
-* 🧠  I'm learning Rust, Linux Kernel Programming
+* 🧠  I'm learning Rust, Linux Kernel Programming, ebpf
 
 ### Skills
 
